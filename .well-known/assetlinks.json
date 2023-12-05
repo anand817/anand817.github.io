@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.aptos",
+      "sha256_cert_fingerprints": [
+        "EC:A2:29:99:62:A2:D0:1B:8F:13:46:4F:54:BF:51:C1:69:D1:3C:D1:51:FE:AC:D0:21:2D:43:09:C4:ED:C0:EB"
+      ]
+    }
+  }
+]
